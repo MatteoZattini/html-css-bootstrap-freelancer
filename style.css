@@ -22,3 +22,11 @@ a{
 .bold{
     font-weight: bold;
 }
+
+.mycard{
+    width: calc(100% / 3);
+}
+
+img{
+    border-radius: 15px;
+}
